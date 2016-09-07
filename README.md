@@ -1,2 +1,2 @@
 # centos-cuda
-CentOS Desktop (graphical+CUDA) base Docker image for JARVICE
+CentOS 7 Desktop (graphical+CUDA) base Docker image for JARVICE
